@@ -6,7 +6,7 @@ color_scheme: "yellow"
 # for atom feed
 author:
   name: cyb3rv4gus
-  email:cyb3rv4gus1337@protonmail.com
+  email: cyb3rv4gus1337@protonmail.com
 
 plugins:
   - jekyll-paginate
